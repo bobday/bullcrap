@@ -1,0 +1,2 @@
+# bullcrap
+just an exercise
